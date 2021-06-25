@@ -1,2 +1,22 @@
-# testuniversity
-This repository is the table of contents for all Test University resources, including Courses, Learning material, sample codes, etc. Tech Spec: https://browserstack.atlassian.net/wiki/spaces/TU/pages/2938798138/Index+TOC+for+Test+University
+![Logo](https://www.browserstack.com/images/static/header-logo.jpg)
+
+# BrowserStack Test University Reference Guide
+
+## Introduction
+
+BrowserStack Test University is an online learning platform for software quality professionals to get hands-on experience with BrowserStack. Test university comprises of three essential components,
+
+    1. Learning Platform
+    2. BrowserStack Demo App
+    3. Code Samples.
+
+All the test university resources and code samples are open-source projects on GitHub. The primary objective of this repo is to help the learners view all the Test University resources on GitHub in one place. 
+
+| #  | Name                   | Description       | Link                                                               |
+  | --- | ---                 | ---               | ---                                                                |
+  | 1   | Demo App Source Code                    | Open-source repository of the BrowserStack Demo App.                                                                                                           | https://github.com/browserstack/browserstack-demo-app              |
+  | 2   | Test Plan Document                      | A sample test plan document to help learners get started.                                                                                                      |                                                                    |
+  | 3   | Test Case Document                      | Test Cases document that covers use cases and scenarios in the demo app. The coursework refers to these test cases to cover features in BrowserStack.          |                                                                    |
+  | 4   | BrowserStack TestNG Implementation      | showcases the BrowserStack integration features with the Java TestNG framework using the BrowserStack demo app: https://bstackdemo.com/                        | https://github.com/browserstack/browserstack-examples-testng       |
+  | 5   | BrowserStack NightWatch Implementation  | This repository showcases the BrowserStack integration features with the NightWatchJS using the BrowserStack sample demo canonical app:https://bstackdemo.com/ | https://github.com/browserstack/browserstack-examples-nightwatchjs |
+  | 6   | BrowserStack WebDriverIO Implementation | This repository showcases the BrowserStack integration features with the NodeJS WebdriverIO framework using the BrowserStack demo app: https://bstackdemo.com/ | https://github.com/browserstack/browserstack-examples-webdriverio  |
