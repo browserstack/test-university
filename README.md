@@ -1,6 +1,6 @@
 ![Logo](https://www.browserstack.com/images/static/header-logo.jpg)
 
-# BrowserStack Test University Reference Guide
+# Test University Reference Guide
 
 ## Introduction
 
