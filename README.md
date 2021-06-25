@@ -1,6 +1,6 @@
 ![Logo](https://www.browserstack.com/images/static/header-logo.jpg)
 
-# Test University Reference Guide
+<h1 align="center">Test University Reference Guide</h1>
 
 ## Introduction
 
