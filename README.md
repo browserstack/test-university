@@ -1,4 +1,4 @@
-![Logo](https://www.browserstack.com/images/static/header-logo.jpg)
+<p align="center"><img src="https://www.browserstack.com/images/static/header-logo.jpg" /></p>
 
 <h1 align="center">Test University Reference Guide</h1>
 
